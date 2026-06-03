@@ -1,6 +1,6 @@
 const TaskCoponent=()=>{
     return(
-        <div className="third">
+        <div className="task">
             <h1>Welcome to Task Component</h1>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint quaerat enim numquam quidem quis, amet tempore ea eos obcaecati officia?</p>
 

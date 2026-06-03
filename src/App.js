@@ -1,8 +1,11 @@
 import './App.css';
 import About from './components/About';
+import Fifthcomponent from './components/fifthcopmponent';
 import Firstcompoent from './components/Firstcomponent';
+import Fouthcomponent from './components/Fouthcompont';
 import Secondcomponent from './components/Secondcomponent';
 import TaskCoponent from './components/TaskCoponent';
+import Thirdcomponent from './components/Thirdcoponent';
 
 function App() {
   return (
@@ -15,6 +18,9 @@ function App() {
        <Secondcomponent/>
        <TaskCoponent/>
        <About/>
+       <Thirdcomponent/>
+       <Fouthcomponent/>
+       <Fifthcomponent/>
       </header>
     </div>
   );

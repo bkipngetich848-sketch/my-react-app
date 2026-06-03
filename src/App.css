@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #f8cb04;
+  background-color: #0d17d4;
   min-height: 10vh;
   display: flex;
   flex-direction: column;
@@ -43,9 +43,12 @@
 .second{
   background-color: #f30505;
 }
-.third{
-  background-color: #1404f8;
+.task{
+  background-color: #9b99af;
 }
 .fourth{
-  background-color: #3ff807;
+  background-color: #d93ff8;
+}
+.mmm{
+  background-color: #12e603;
 }
