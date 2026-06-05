@@ -15,7 +15,7 @@ const Fifthcomponent=()=>{
             <p>My number is:{number}</p>
             <button onClick={()=>setnumber(25)}>Click</button>
 
-            <p>My age is:{age}</p>
+            <p>My age is:{age}</p>                                                                                                                                 
             <button onClick={() => setage(15)}>click to change age</button>
 
             <p>My name is:{name}</p>
